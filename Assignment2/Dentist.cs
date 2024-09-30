@@ -4,15 +4,16 @@ class Dentist:Person,IMedicine
     public string specilization;
     public int experience;
     public Dentist(string name, DateTime d,string a,char g,string s,int e ):base(name,d,a,g){
-        this.specilization = s;
-        this.experience = e;
+        specilization = s;
+        experience = e;
     }
-       public List<string> GetRoles()=>new List<string>{"diagonasis","advice","pain killer"};
+       public List<string> GetMedicineNames()=>new List<string>{"pain killer","paracetamole"};
+       public string GetDose()=>new string("");
+       public string SideEffects()=>new string("");
     public override void displayPersonInfo()
     {
         base.displayPersonInfo(); 
-        var message=$"{specilization}\t\t{experience}";
-        Console.Write("msg");
+        Console.Write($"{specilization}\t\t{experience}");
     }
     
             public static void printHeader()

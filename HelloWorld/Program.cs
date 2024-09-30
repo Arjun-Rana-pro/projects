@@ -36,7 +36,7 @@ var student4 = new Student("Rakeesh Bond", 798, new DateTime(2000, 1, 11), 'M');
 student4.PrintDetails();
 
 Admin.PrintHeader();
-var admin1 = new Admin("Arjun Rans", "Admin",new DateTime(1999, 1,5),'M');
+var admin1 = new Admin("Arjun Rana", "Admin",new DateTime(1999, 1,5),'M');
 admin1.PrintDetails();
 
 Methods m = new();
