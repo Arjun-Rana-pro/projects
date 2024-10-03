@@ -9,10 +9,8 @@ public class CSVParser
 {
   
 
-    public List<Person> ParseCsv()
+    public List<Person> ParseCsv(string filePath)
     { 
-       string filePath = @"C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\Data\People.csv";
-
             var people = new List<Person>();
             var lines = File.ReadAllLines(filePath);
             var header = lines[0];
