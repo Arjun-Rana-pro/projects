@@ -1,0 +1,15 @@
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\bin\Debug\net8.0\PeopleManagement.exe
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\bin\Debug\net8.0\PeopleManagement.deps.json
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\bin\Debug\net8.0\PeopleManagement.runtimeconfig.json
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\bin\Debug\net8.0\PeopleManagement.dll
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\bin\Debug\net8.0\PeopleManagement.pdb
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.AssemblyInfoInputs.cache
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.AssemblyInfo.cs
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.csproj.CoreCompileInputs.cache
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.sourcelink.json
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.dll
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\refint\PeopleManagement.dll
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.pdb
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\PeopleManagement.genruntimeconfig.cache
+C:\Users\arjun\OneDrive\Desktop\C#\projects\PeopleManagement\obj\Debug\net8.0\ref\PeopleManagement.dll

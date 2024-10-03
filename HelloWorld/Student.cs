@@ -17,7 +17,6 @@ class Student
     public string name = "";
     public int rollNumber;
     public DateTime dateOfBirth;
-    string resume = "";
     public char gender;
 
     // Instance member

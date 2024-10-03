@@ -9,7 +9,6 @@ public class Person
 
     public string name = "";
     public DateTime dateOfBirth;
-    string resume = "";
     public char gender;
 
     public virtual void PrintDetails()
